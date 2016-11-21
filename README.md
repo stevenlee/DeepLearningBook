@@ -10,5 +10,11 @@ If I am wrong, hope somebody could tell me.
 ## How to use it?
 I use [Anaconda](https://www.continuum.io/downloads) to launch [Jupyter Notebook](http://jupyter.org/) and using [Python 3](https://www.python.org/) for programs.
 
+If you don't have the environment, you may install Python first, than install Anaconda. Jypyter Notebook should be included.
+There are many useful packages for Python: (You will need these packages in day 1...)
+- pip for package management
+- numpy for numerical process
+- matplotlib for output figures
+
 ## What I want to achieve?
 If I could understand deep learning, I think any high school student could. My goal is to teach myself deep learning, and also teach at least one kid about deep learning.
